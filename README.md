@@ -9,13 +9,13 @@ src/test/java
 
 非对称算法：Asymmetric.encryption
 
-摘要算法详解：http://www.cnblogs.com/allanzhang/p/6984747.html
+摘要算法详解：http://www.cnblogs.com/laoyeye/p/6984747.html
 
-对称算法详解：http://www.cnblogs.com/allanzhang/p/6999976.html
+对称算法详解：http://www.cnblogs.com/laoyeye/p/6999976.html
 
-非对称算法详解：http://www.cnblogs.com/allanzhang/p/7040539.html
+非对称算法详解：http://www.cnblogs.com/laoyeye/p/7040539.html
 
 OSChina地址：https://git.oschina.net/allanzhang/checkcode.git
 
-我的博客地址：http://www.cnblogs.com/allanzhang
+我的博客地址：http://www.cnblogs.com/laoyeye
 
