@@ -19,3 +19,5 @@ OSChina地址：https://git.oschina.net/allanzhang/checkcode.git
 
 我的博客地址：http://www.cnblogs.com/laoyeye
 
+gggg
+
