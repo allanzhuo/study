@@ -1,4 +1,4 @@
-# study
+# study.
 存放些平时乱七八槽的东西 
 # 加密算法系列
 src/test/java
